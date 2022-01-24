@@ -20,3 +20,8 @@ that was the main programming language that I used for the execution of this pro
 # Useful Websites
 * [CodeAcademy] https://www.codecademy.com/learn/learn-kotlin
 * [Geeks for Geeks] https://www.geeksforgeeks.org/how-to-create-a-quiz-app-in-android/
+
+# Future Work
+* Fix the start button
+* Have it check to see if something is in the insert name box
+* Finish the quiz pages
